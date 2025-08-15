@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Editor",
+  "description": "An AI-powered resume editor that parses an uploaded resume image, allows you to edit the content in a structured form, and provides a live preview that you can download as a PDF.",
+  "requestFramePermissions": []
+}
